@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%; /* rem y em = miden 10px*/
+}
+
+body {
+    background-color: black;
+}
+
+.tablas {
+    margin: 4rem;
+}
+.bebidas {
+    margin: 4rem;
+}
+
+h1 {
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+
+.entrega {
+    font-size: 3rem;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
